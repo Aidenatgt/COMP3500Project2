@@ -1,0 +1,1 @@
+/home/aiden/Documents/Class/COMP3500/cs161/cs161-gdb-1.5/./gdb-6.6+cs161/sim/mips/tconfig.in
